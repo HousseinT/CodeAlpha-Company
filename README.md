@@ -1,6 +1,6 @@
 # Age Calculator App
 
-![Age Calculator](./src/assets/hourglass.png)
+![Age Calculator](./CodeAlpha_Age-Calculator/src/assets/hourglass.png)
 
 ## Overview
 
@@ -17,7 +17,7 @@ A modern, responsive web application that precisely calculates a person's age in
 
 ## Demo
 
-[View Live Demo](#) <!-- Add your deployment link when available -->
+[View Live Demo](#) `<!-- Add your deployment link when available -->`
 
 ## Technologies Used
 
@@ -35,10 +35,7 @@ A modern, responsive web application that precisely calculates a person's age in
 git clone https://github.com/yourusername/age-calculator.git
 
 # Navigate to the project directory
-cd age-calculator
-
-# Install dependencies
-npm install
+cd CodeAlpha_Age-Calculator
 
 # Start the development server
 npm run dev
