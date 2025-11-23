@@ -15,9 +15,7 @@ A modern, responsive web application that precisely calculates a person's age in
 - **Accessibility**: Designed with accessibility in mind for all users
 - **Modern Interface**: Clean, intuitive UI with Tailwind CSS styling
 
-## Demo
 
-[View Live Demo](#) `<!-- Add your deployment link when available -->`
 
 ## Technologies Used
 
